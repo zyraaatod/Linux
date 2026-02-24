@@ -1,9 +1,3 @@
-# Linux
-
-https://www.youtube.com/xqoharx099
-
----
-
 🚀 ULTIMATE GUIDE: Bikin GitHub Profile & Repository Jadi KEREN BANGET!
 
 Saya akan kasih semua komponen yang bisa bikin GitHub kamu aesthetic, profesional, dan stunning! ✨
@@ -13,6 +7,7 @@ Saya akan kasih semua komponen yang bisa bikin GitHub kamu aesthetic, profesiona
 📌 BAGIAN 1: GITHUB PROFILE (README.md di Profile)
 
 1.1 Header dengan Typing Effect
+
 
 <div align="center">
   
@@ -32,6 +27,7 @@ Saya akan kasih semua komponen yang bisa bikin GitHub kamu aesthetic, profesiona
 
 1.2 Social Media Badges Keren
 
+
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
@@ -47,7 +43,7 @@ Saya akan kasih semua komponen yang bisa bikin GitHub kamu aesthetic, profesiona
 
 1.3 Profile Views Counter
 
-```markdown
+
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=username&color=00FFAA&style=for-the-badge&label=PROFILE+VIEWS)
@@ -55,11 +51,12 @@ Saya akan kasih semua komponen yang bisa bikin GitHub kamu aesthetic, profesiona
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusername&count_bg=%2300FFAA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-```
+
+---
 
 1.4 About Me dengan Emoji Animasi
 
-```markdown
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> **About Me**
 
 ```yaml
@@ -104,11 +101,12 @@ mindmap
 ```
 
 </div>
-```
+
+---
 
 1.5 Tech Stack dengan Icons Keren
 
-```markdown
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer" width="30" height="30" /> **Tech Stack**
 
 <div align="center">
@@ -145,11 +143,12 @@ mindmap
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-```
+
+---
 
 1.6 GitHub Stats Card Keren
 
-```markdown
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" height="30" /> **GitHub Analytics**
 
 <div align="center">
@@ -167,11 +166,12 @@ mindmap
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=username&theme=dark&bg_color=0d1117&title_color=00FFAA&text_color=ffffff&border_color=30363d&border_radius=10)
 
 </div>
-```
+
+---
 
 1.7 3D Contribution Graph
 
-```markdown
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Mountain.png" alt="Mountain" width="30" height="30" /> **3D Contribution Graph**
 
 <div align="center">
@@ -179,13 +179,14 @@ mindmap
 ![3D Graph](https://github.com/username/username/blob/main/profile-3d-contrib/profile-night-green.svg?raw=true)
 
 </div>
-```
+
+---
 
 Cara setup: https://github.com/yoshi389111/github-profile-3d-contrib
 
 1.8 Snake Animation
 
-```markdown
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" /> **Contribution Snake**
 
 <div align="center">
@@ -193,7 +194,8 @@ Cara setup: https://github.com/yoshi389111/github-profile-3d-contrib
 ![snake gif](https://github.com/username/username/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-```
+
+---
 
 Cara setup: https://github.com/Platane/snk
 
@@ -203,7 +205,7 @@ Cara setup: https://github.com/Platane/snk
 
 2.1 Header dengan Banner
 
-```markdown
+
 <div align="center">
   
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fire.png" alt="Fire" width="40" height="40" /> **PROJECT NAME** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fire.png" alt="Fire" width="40" height="40" />
@@ -222,11 +224,12 @@ Cara setup: https://github.com/Platane/snk
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 </div>
-```
+
+---
 
 2.2 Demo/GIF Showcase
 
-```markdown
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera" width="30" height="30" /> **Demo**
 
 <div align="center">
@@ -244,11 +247,12 @@ Cara setup: https://github.com/Platane/snk
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)
 
 </div>
-```
+
+---
 
 2.3 Features dengan Icons Grid
 
-```markdown
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="30" height="30" /> **✨ Features**
 
 <div align="center">
@@ -260,11 +264,12 @@ Cara setup: https://github.com/Platane/snk
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Mail" width="30" height="30" /><br/>**Notifications** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" height="30" /><br/>**API Ready** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Growth" width="30" height="30" /><br/>**Scalable** |
 
 </div>
-```
+
+---
 
 2.4 Installation dengan Terminal Animation
 
-```markdown
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Box.png" alt="Box" width="30" height="30" /> **📦 Installation**
 
 <div align="center">
@@ -291,11 +296,12 @@ https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&l
 https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 
 </div>
-```
+
+---
 
 2.5 Tech Stack dengan Icons
 
-```markdown
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> **🛠️ Built With**
 
 <div align="center">
@@ -319,11 +325,13 @@ https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoC
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
-```
+
+---
+
 
 2.6 Project Structure dengan Tree
 
-```markdown
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Folder" width="30" height="30" /> **📁 Project Structure**
 
 ```text
@@ -365,11 +373,11 @@ graph TD
 ```
 
 </div>
-```
+---
 
 2.7 API Documentation dengan Cards
 
-```markdown
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="API" width="30" height="30" /> **🔌 API Endpoints**
 
 <div align="center">
@@ -414,11 +422,12 @@ graph TD
 </details>
 
 </div>
-```
+
+---
 
 2.8 Contributing Guide dengan Animasi
 
-```markdown
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> **🤝 Contributing**
 
 <div align="center">
@@ -454,11 +463,10 @@ Step Action Description
 </a>
 
 </div>
-```
 
 2.9 License dengan Badge
 
-```markdown
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="License" width="30" height="30" /> **📜 License**
 
 <div align="center">
@@ -470,11 +478,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 [![License](https://img.shields.io/badge/License-MIT-00FFAA?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 
 </div>
-```
 
 2.10 Footer yang Keren
 
-```markdown
+
 <div align="center">
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
@@ -497,4 +504,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoCo
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:email@example.com)
+
+**Made with ❤️ by [Your
