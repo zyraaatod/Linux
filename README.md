@@ -59,7 +59,7 @@ Saya akan kasih semua komponen yang bisa bikin GitHub kamu aesthetic, profesiona
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> **About Me**
 
-```yaml
+
 name: "Your Name"
 location: "City, Country"
 current_work: "Company/Startup"
@@ -77,9 +77,8 @@ fields_of_interests:
   ]
 currently_learning: ["React Native", "Machine Learning", "Rust"]
 hobbies: ["Gaming", "Photography", "Reading", "Traveling"]
-```
 
-```mermaid
+
 mindmap
   root((Me))
     💻 Coding
@@ -98,7 +97,6 @@ mindmap
       Open Source
       Mentoring
       Contributing
-```
 
 </div>
 
@@ -507,4 +505,355 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/username)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:email@example.com)
 
-**Made with ❤️ by [Your
+**Made with ❤️ by [Your Name]**  
+*Last updated: 2024*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+
+</div>
+
+---
+
+📌 BAGIAN 3: GITHUB ORGANIZATION PROFILE
+
+3.1 Organization README Keren
+
+
+<div align="center">
+  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="40" height="40" /> **ORGANIZATION NAME** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="40" height="40" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Building+the+Future;Open+Source+First;Innovation+Hub" alt="Typing SVG" />
+
+![Organization Banner](https://via.placeholder.com/1200x300.png?text=Organization+Banner)
+
+[![Website](https://img.shields.io/badge/Website-00FFAA?style=for-the-badge&logo=google-chrome&logoColor=black)](https://organization.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/org)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/org)
+
+</div>
+
+## 🎯 **Our Mission**
+
+> "To make the world a better place through open source technology and innovation."
+
+## 🚀 **Our Projects**
+
+<div align="center">
+
+### **🔥 Featured Projects**
+
+| Project | Description | Stars | Tech |
+|:--------|:------------|:-----:|:----:|
+| [**Project 1**](https://github.com/org/project1) | Amazing project description | ![Stars](https://img.shields.io/github/stars/org/project1?style=flat-square) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) |
+| [**Project 2**](https://github.com/org/project2) | Another awesome project | ![Stars](https://img.shields.io/github/stars/org/project2?style=flat-square) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [**Project 3**](https://github.com/org/project3) | Game-changing tool | ![Stars](https://img.shields.io/github/stars/org/project3?style=flat-square) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) |
+
+</div>
+
+## 👥 **Our Team**
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user1.png" width="100" height="100" style="border-radius:50%"/><br/>**User 1**<br/>Founder | <img src="https://github.com/user2.png" width="100" height="100" style="border-radius:50%"/><br/>**User 2**<br/>CTO | <img src="https://github.com/user3.png" width="100" height="100" style="border-radius:50%"/><br/>**User 3**<br/>Lead Dev |
+
+</div>
+
+## 📊 **Organization Stats**
+
+<div align="center">
+
+![Org Stats](https://github-readme-stats.vercel.app/api?username=org&show_icons=true&theme=dark&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=org&layout=compact&theme=dark&bg_color=0d1117&title_color=00FFAA)
+
+</div>
+```
+
+---
+
+📌 BAGIAN 4: GITHUB ACTIONS / CI/CD BADGES
+
+
+## 🚦 **Status Badges**
+
+<div align="center">
+
+### **CI/CD Pipeline**
+[![Build Status](https://img.shields.io/github/actions/workflow/status/username/project/ci.yml?style=for-the-badge&logo=github-actions&logoColor=white&label=BUILD)](https://github.com/username/project/actions)
+[![Test Status](https://img.shields.io/github/actions/workflow/status/username/project/test.yml?style=for-the-badge&logo=jest&logoColor=white&label=TESTS)](https://github.com/username/project/actions)
+[![Lint Status](https://img.shields.io/github/actions/workflow/status/username/project/lint.yml?style=for-the-badge&logo=eslint&logoColor=white&label=LINT)](https://github.com/username/project/actions)
+[![Deploy Status](https://img.shields.io/github/actions/workflow/status/username/project/deploy.yml?style=for-the-badge&logo=vercel&logoColor=white&label=VERCEL)](https://github.com/username/project/actions)
+
+### **Code Quality**
+[![CodeFactor](https://img.shields.io/codefactor/grade/github/username/project?style=for-the-badge&logo=codefactor&logoColor=white&label=CODEFActor)](https://www.codefactor.io/repository/github/username/project)
+[![Codecov](https://img.shields.io/codecov/c/github/username/project?style=for-the-badge&logo=codecov&logoColor=white&label=CODECOV)](https://codecov.io/gh/username/project)
+[![DeepSource](https://img.shields.io/deepsource/gh/username/project?style=for-the-badge&logo=deepsource&logoColor=white&label=DEEPSOURCE)](https://deepsource.io/gh/username/project)
+
+### **Security**
+[![Snyk](https://img.shields.io/snyk/vulnerabilities/github/username/project?style=for-the-badge&logo=snyk&logoColor=white&label=SNYK)](https://snyk.io/test/github/username/project)
+[![Dependabot](https://img.shields.io/badge/Dependabot-Enabled-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)](https://github.com/username/project/security/dependabot)
+
+</div>
+
+---
+
+📌 BAGIAN 5: ALAT-ALAT KEREN LAINNYA
+
+5.1 GitHub Profile Trophy
+
+
+<div align="center">
+  
+## 🏆 **GitHub Trophies**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=username&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+5.2 Spotify Now Playing
+
+
+<div align="center">
+  
+## 🎵 **Now Playing**
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/username)
+
+</div>
+
+5.3 Recent Activity
+
+
+<div align="center">
+  
+## ⏱️ **Recent Activity**
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#10](https://github.com/username/project/pull/10) in [username/project](https://github.com/username/project)
+2. 💪 Opened PR [#9](https://github.com/username/project/pull/9) in [username/project](https://github.com/username/project)
+3. ❗️ Opened issue [#8](https://github.com/username/project/issues/8) in [username/project](https://github.com/username/project)
+4. 🔱 Forked [someone/repo](https://github.com/someone/repo) from [someone](https://github.com/someone)
+5. ⭐ Starred [another/repo](https://github.com/another/repo)
+<!--END_SECTION:activity-->
+
+</div>
+
+5.4 Blog Posts
+
+
+<div align="center">
+  
+## 📝 **Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Build Awesome GitHub Profiles](https://blog.com/post1)
+- [10 Tips for Open Source Contributors](https://blog.com/post2)
+- [Getting Started with React in 2024](https://blog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+```
+
+5.5 Discord Presence
+
+
+<div align="center">
+  
+## 💬 **Discord**
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/DISCORD_USER_ID)](https://discord.com/users/DISCORD_USER_ID)
+
+</div>
+
+---
+
+🎨 TIPS DESAIN PRO
+
+1. Warna yang Cocok
+
+
+Theme Dark:
+- Background: #0d1117 (GitHub Dark)
+- Primary: #00FFAA (Hijau Neon)
+- Secondary: #00AAFF (Biru)
+- Accent: #FF6B6B (Merah Salmon)
+- Gold: #FFD700 (Emas)
+- Purple: #9B59B6 (Ungu)
+
+
+2. Animasi CSS (via Capsule Render)
+
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=header&text=Hello!&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=150&section=header&text=Welcome&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=footer&text=The%20End&fontSize=60"/>
+
+---
+
+3. Custom Shields.io Badges
+
+
+![Custom](https://img.shields.io/badge/STYLE-COLOR?style=for-the-badge&logo=logo&logoColor=white&labelColor=000&color=00FFAA)
+
+---
+
+📚 DAFTAR TOOLS KEREN
+
+Tool Fungsi Link
+Shields.io Badges keren shields.io
+Readme Typing SVG Typing effect readme-typing-svg
+GitHub Readme Stats Stats cards github-readme-stats
+Profile Trophy Trophy case github-profile-trophy
+Streak Stats Streak counter github-readme-streak-stats
+Profile 3D Contrib 3D graph profile-3d-contrib
+Snake Game Snake animation snk
+Capsule Render Header/footer keren capsule-render
+Mermaid Diagrams mermaid
+Simple Icons Icons simpleicons.org
+Animated Fluent Emojis Emoji animasi animated-fluent-emojis
+
+---
+
+🎯 CONTOH LENGKAP UNTUK NIGHTFURY
+
+
+<div align="center">
+  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" alt="Bat" width="40" height="40" /> **NIGHTFURY INSTALLER** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" alt="Bat" width="40" height="40" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,4&height=200&section=header&text=Web%20Scanning%20Utility&fontSize=40&fontColor=00FFAA&animation=twinkling&desc=For%20Termux%20|%20Fast%20|%20Powerful&descSize=20&descAlignY=70"/>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-00FFAA?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-1.0-00AAFF?style=for-the-badge&logo=tag&logoColor=white)](https://github.com/zyraaatod/nightfury-installer/releases)
+[![Stars](https://img.shields.io/github/stars/zyraaatod/nightfury-installer?style=for-the-badge&logo=github&color=FFD700)](https://github.com/zyraaatod/nightfury-installer/stargazers)
+[![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=terminal&logoColor=00FFAA)](https://f-droid.org/id/packages/com.termux/)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=⚡+Automated+Installer+for+NightFury;📱+Optimized+for+Termux;🔍+Powerful+Web+Scanning;🚀+One+Command+Setup" alt="Typing SVG" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+</div>
+
+## 🌟 **Overview**
+
+**NightFury Installer** adalah solusi instalasi otomatis untuk **NightFury**, web scanning utility yang dirancang khusus untuk Termux. Dengan satu perintah, Anda bisa langsung melakukan setup dan analisis keamanan web.
+
+```mermaid
+graph LR
+    A[Clone Repo] -->|git clone| B[Run Installer]
+    B -->|bash n.sh| C[NightFury Ready!]
+    C -->|./run.sh| D[Scan Target]
+    D -->|Analyze| E[Get Results]
+    
+    style A fill:#00AAFF,stroke:#333,color:#fff
+    style B fill:#00FFAA,stroke:#333,color:#000
+    style C fill:#FFD700,stroke:#333,color:#000
+    style D fill:#FF6B6B,stroke:#333,color:#fff
+    style E fill:#9B59B6,stroke:#333,color:#fff
+```
+
+⚡ Quick Start
+
+<div align="center">
+
+🚀 One-Liner
+```bash
+git clone https://github.com/zyraaatod/nightfury-installer.git && cd nightfury-installer && bash n.sh
+```
+
+</div>
+
+✨ Features
+
+<div align="center">
+
+  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Auto" width="30" height="30" /> Auto Install <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Termux" width="30" height="30" /> Termux Ready <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Feather.png" alt="Light" width="30" height="30" /> Lightweight
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Easy" width="30" height="30" /> User Friendly <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Fast" width="30" height="30" /> Fast Setup <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Web" width="30" height="30" /> Web Scanner
+
+</div>
+
+📊 Project Stats
+
+<div align="center">
+
+⭐ Popularity
+
+https://img.shields.io/github/stars/zyraaatod/nightfury-installer?style=for-the-badge&logo=github&color=FFD700&labelColor=0d1117
+https://img.shields.io/github/forks/zyraaatod/nightfury-installer?style=for-the-badge&logo=github&color=00AAFF&labelColor=0d1117
+https://img.shields.io/github/watchers/zyraaatod/nightfury-installer?style=for-the-badge&logo=github&color=00FFAA&labelColor=0d1117
+
+🔄 Activity
+
+https://img.shields.io/github/last-commit/zyraaatod/nightfury-installer?style=for-the-badge&logo=github&color=FF6B6B&labelColor=0d1117
+https://img.shields.io/github/commit-activity/m/zyraaatod/nightfury-installer?style=for-the-badge&logo=github&color=9B59B6&labelColor=0d1117
+https://img.shields.io/github/v/release/zyraaatod/nightfury-installer?style=for-the-badge&logo=github&color=3498DB&labelColor=0d1117
+
+📦 Size
+
+https://img.shields.io/github/repo-size/zyraaatod/nightfury-installer?style=for-the-badge&logo=github&color=9B59B6&labelColor=0d1117
+https://img.shields.io/github/languages/code-size/zyraaatod/nightfury-installer?style=for-the-badge&logo=github&color=3498DB&labelColor=0d1117
+
+📈 Star History
+
+https://api.star-history.com/svg?repos=zyraaatod/nightfury-installer&type=Date&theme=dark
+
+👁️ Visitors
+
+https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzyraaatod%2Fnightfury-installer&label=VISITORS&countColor=%2300FFAA&labelStyle=upper
+
+</div>
+
+👨‍💻 Author
+
+<div align="center">
+
+zyraaatod
+
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Love" width="20" height="20" /> **Made with passion for security community** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Love" width="20" height="20" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+⭐ Support
+
+If you find this project useful, please give it a star! ⭐
+
+https://img.shields.io/github/stars/zyraaatod/nightfury-installer?style=social
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" alt="Bat" width="30" height="30" /> **NightFury - Scan Smart, Stay Secure** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" alt="Bat" width="30" height="30" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+
+</div>
+
+---
+
+🎉 SELESAI!
+
+Dengan semua komponen di atas, GitHub kamu akan berubah dari polosan jadi sangat bagus! 🚀
+
+Tips Terakhir:
+
+1. Konsisten dengan tema warna
+2. Jangan terlalu ramai - pilih elemen yang paling relevan
+3. Update secara berkala - biar selalu fresh
+4. Mobile friendly - cek tampilan di HP
+
+Selamat mencoba! ✨
