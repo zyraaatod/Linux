@@ -14,7 +14,6 @@ Saya akan kasih semua komponen yang bisa bikin GitHub kamu aesthetic, profesiona
 
 1.1 Header dengan Typing Effect
 
-```markdown
 <div align="center">
   
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fire.png" alt="Fire" width="100" height="100" />
@@ -28,11 +27,11 @@ Saya akan kasih semua komponen yang bisa bikin GitHub kamu aesthetic, profesiona
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 </div>
-```
+
+---
 
 1.2 Social Media Badges Keren
 
-```markdown
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
@@ -43,7 +42,8 @@ Saya akan kasih semua komponen yang bisa bikin GitHub kamu aesthetic, profesiona
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FFAA?style=for-the-badge&logo=google-chrome&logoColor=black)](https://portfolio.com)
 
 </div>
-```
+
+---
 
 1.3 Profile Views Counter
 
